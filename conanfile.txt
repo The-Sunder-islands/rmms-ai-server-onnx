@@ -1,0 +1,14 @@
+[requires]
+onnxruntime/1.21.0
+drogon/1.9.10
+spdlog/1.15.2
+glaze/4.5.0
+tomlplusplus/3.4.0
+gtest/1.16.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout
